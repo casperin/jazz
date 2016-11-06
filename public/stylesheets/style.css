@@ -1,0 +1,14 @@
+body {
+  font: 14px/1.4 sans-serif;
+}
+form label {
+  display: block;
+  margin-bottom: 1em;
+}
+form label span {
+  display: inline-block;
+  width: 100px;
+}
+form .actions button {
+  margin-left: 100px;
+}

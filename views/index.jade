@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  small
+    a(href='/signup') Sign up
+  hr
+
+  if message
+    mark= message
+
+  h1 Jazz :: Login
+
+  form(action='/signin', method='POST')
+    label
+      span Email 
+      input(type='email', name='email' placeholder='john@example.com', autofocus, value=email)
+
+    label
+      span Password 
+      input(type='password', name='password')
+
+    .actions
+      button(type='submit') Login

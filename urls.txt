@@ -1,0 +1,91 @@
+https://blog.pinboard.in/feed/
+http://feeds.feedburner.com/scotthyoung/HAHx "smart people"
+http://www.zephoria.org/thoughts/feed "smart people"
+http://feeds.feedburner.com/codinghorror "smart people"
+http://www.aaronsw.com/2002/feeds/pgessays.rss "smart people"
+http://sivers.org/en.atom "smart people"
+http://dailyroutines.typepad.com/daily_routines/atom.xml "smart people"
+http://feeds.feedburner.com/StudyHacks "smart people"
+http://www.joelonsoftware.com/rss.xml "smart people"
+http://www.rsspect.com/rss/asw.xml "cartoons"
+http://xkcd.com/rss.xml "cartoons"
+http://pbfcomics.com/feed/feed.xml "cartoons"
+http://oglaf.com/feeds/rss "cartoons"
+http://feeds.feedburner.com/Explosm "cartoons"
+http://feeds.feedburner.com/thebrads "cartoons"
+http://feeds.dilbert.com/DilbertDailyStrip "cartoons"
+http://feeds.feedburner.com/thedoghousediaries/feed "cartoons"
+http://feeds.feedburner.com/TheSartorialist "fashion (god help me)"
+http://facehunter.blogspot.com/feeds/posts/default "fashion (god help me)"
+http://www.thestyleblogger.com/feed "fashion (god help me)"
+http://www.hypemeanseverything.com/feed "fashion (god help me)"
+http://functionaltalks.org/feed "global.must"
+http://page2rss.com/rss/9fc3ae12a1465446684506f7461b9129 "Graphic Design"
+http://rmurphey.com/feed.xml "code"
+http://infrequently.org/feed "code"
+http://lambda-the-ultimate.org/rss.xml "code"
+http://www.javascriptcookbook.com/rss "code"
+http://feeds.igvita.com/igvita "code"
+http://feeds.feedburner.com/KatzGotYourTongue "code"
+http://functionaljavascript.blogspot.com/feeds/posts/default "code"
+http://feeds.feedburner.com/JavascriptJavascript "code"
+http://codebetter.com/blogs/MainFeed.aspx "code"
+http://hnbest.heroku.com/rss "code"
+http://www.information.dk/politik/feed "Politics"
+http://leaverou.me/feed "Design"
+http://feeds.feedburner.com/ButDoesItFloat "Design"
+http://littlebigdetails.com/rss "Design"
+http://www.cooper.com/journal/rss.xml "Design"
+http://www.minimallyminimal.com/blog?format=rss "Design"
+http://worrydream.com/feed.xml "rare stuff"
+http://daltoncaldwell.com/feed "rare stuff"
+http://feeds.feedburner.com/mdo "rare stuff"
+http://codeascraft.etsy.com/feed "rare stuff"
+http://www.benjamin-gundgaard.dk/feed "rare stuff"
+http://feeds.feedburner.com/SteveysBlogRants "rare stuff"
+http://brorsblog.typepad.com/brors-blog/atom.xml "rare stuff"
+http://blog.okcupid.com/index.php/feed "rare stuff"
+http://feeds.feedburner.com/FrontEndBook "rare stuff"
+http://jlcollinsnh.wordpress.com/feed "rare stuff"
+http://rss.thepiratebay.org/blog "rare stuff"
+http://infotrope.net/feed "rare stuff"
+http://feeds.feedburner.com/typepad/KathySierra/creating_passionate_users "rare stuff"
+http://feeds.feedburner.com/24ways
+http://feeds.feedburner.com/CssTricks
+http://prog21.dadgum.com/atom.xml
+http://feeds.feedburner.com/html5rocks
+http://feeds.frogdesign.com/frog-design-mind
+http://feeds.feedburner.com/adequatelygood
+http://feeds.feedburner.com/dailyjs
+http://feeds.feedburner.com/GeekAndPoke
+http://feeds.feedburner.com/HanselminutesCompleteMP3
+http://feeds.feedburner.com/html5doctor
+http://feeds.feedburner.com/paul-irish
+http://feeds.feedburner.com/doctype/episodes
+http://feeds.feedburner.com/addyosmani
+http://feeds.feedburner.com/csswizardrycom
+http://programmingisterrible.com/rss
+http://feeds.feedburner.com/the-javascript-show
+http://www.echojs.com/rss
+http://blog.uncommons.org/feed/
+http://esr.ibiblio.org/?feed=rss2
+http://feeds.feedburner.com/JavascriptJabber
+http://blog.sigfpe.com/feeds/posts/default?alt=rss
+http://feeds.feedburner.com/webdesignweekly
+http://shoptalkshow.com/feed/podcast
+http://gowers.wordpress.com/feed
+http://www.kitchensoap.com/feed
+https://hacks.mozilla.org/feed
+http://blog.webplatform.org/feed
+http://unsplash.com/rss
+http://www.farnamstreetblog.com/feed
+http://dailynerd.nl/feed
+http://swannodette.github.io/atom.xml
+http://www.codesimplicity.com/feed/atom
+http://brookeallen.com/pages/feed
+http://danluu.com/atom.xml
+http://www.radio4all.net/responder.php/podcast/podcast.xml?series=Noam+Chomsky
+http://hughfdjackson.com/feed.xml
+http://ventrellathing.wordpress.com/feed
+http://feedpress.me/jlongster
+http://begriffs.com/atom.xml

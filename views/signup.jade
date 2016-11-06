@@ -1,0 +1,29 @@
+extends layout
+
+block content
+
+  small
+    a(href='/') Jazz
+
+  hr
+
+  if message
+    mark= message
+
+  h1 Jazz :: Signup
+
+  form(action='/signup', method='POST')
+    label
+      span Email 
+      input(type='email', name='email' placeholder='john@example.com', autofocus, value=email)
+      if missing === 'email'
+        mark &larr; Forgot your email
+
+    label
+      span Password 
+      input(type='password', name='password')
+      if missing === 'password'
+        mark &larr; Forgot your password
+
+    .actions
+      button(type='submit') Create user
